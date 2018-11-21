@@ -7,3 +7,4 @@ forthline
 7thline to test the diff 
 8thline to test the diff HEAD
 9thline to test the diff --cached
+10thline to test the branch bh1
