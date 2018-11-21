@@ -5,3 +5,4 @@ forthline
 5thline
 6thline test reset and rm --cache
 7thline to test the diff 
+8thline to test the diff HEAD
