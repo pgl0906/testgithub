@@ -3,3 +3,4 @@ second modify the txt to test add and commit
 thirdline
 forthline
 5thline
+6thline test reset and rm --cache
